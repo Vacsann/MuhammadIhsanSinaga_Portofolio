@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion } from "motion/react";
 import { Download, Rocket, Send } from "lucide-react";
-const myPhoto = "https://i.ibb.co.com/b57vGMzM/Whats-App-Image-2026-05-20-at-00-04-38.jpg";
+const myPhoto = "/foto_hero.jpg";
 
 export default function Hero() {
   const titles = ["Programmer", "Web Developer", "UI/UX Designer", "Software Engineer"];
