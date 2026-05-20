@@ -89,7 +89,7 @@ export default function About() {
             <div className="relative rounded-3xl overflow-hidden glass-panel border border-white/10 p-4 box-glow-silver">
               <div className="rounded-2xl overflow-hidden aspect-square relative mb-5 bg-neutral-900 group">
                 <img
-                  src="https://i.ibb.co.com/4gZHxR2S/myphoto-jpg.jpg"
+                  src="/foto_about.jpg"
                   alt="Ihsan portrait detail"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover grayscale brightness-95 contrast-105 group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700"
