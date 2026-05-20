@@ -1,0 +1,6 @@
+- [ ] Pahami sumber foto di Home (Hero.tsx) vs About.tsx
+- [ ] Susun edit plan: ganti path image Hero agar pakai aset yang benar (ihsan_avatar_1779248488737.png)
+- [ ] Konfirmasi plan dengan user
+- [ ] Implement perubahan di src/components/Hero.tsx
+- [ ] Jalankan build/dev untuk memastikan gambar tampil
+- [ ] Update ringkasan hasil
