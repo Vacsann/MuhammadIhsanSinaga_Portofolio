@@ -143,7 +143,7 @@ export default function About() {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 pt-8 border-t border-white/5">
               {/* Stat 1 */}
               <div className="p-4 rounded-2xl bg-white/[0.02] border border-white/5 flex flex-col items-center md:items-start select-none">
-                <StatCounter targetValue={12} suffix="+" />
+                <StatCounter targetValue={3} suffix="" />
                 <span className="text-[10px] font-mono text-neutral-500 uppercase tracking-widest mt-1 text-center md:text-left">
                   Projects Completed
                 </span>
@@ -151,7 +151,7 @@ export default function About() {
               
               {/* Stat 2 */}
               <div className="p-4 rounded-2xl bg-white/[0.02] border border-white/5 flex flex-col items-center md:items-start select-none">
-                <StatCounter targetValue={15} suffix="+" />
+                <StatCounter targetValue={6} suffix="" />
                 <span className="text-[10px] font-mono text-neutral-500 uppercase tracking-widest mt-1 text-center md:text-left">
                   Tech Skillsets
                 </span>
